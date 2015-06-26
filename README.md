@@ -1,2 +1,3 @@
 # hello-world
-Following the guide
+Let's put our heads together and
+Start a new country up! 
